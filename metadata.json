@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Live & SEO Optimizer",
+  "description": "A real-time conversational AI with voice/video interaction and a professional AI-powered SEO optimization tool.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
